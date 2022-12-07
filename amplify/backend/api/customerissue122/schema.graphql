@@ -2,3 +2,8 @@ type Dog @model @auth(rules: [{allow: public}]) {
   id: ID!
   name: String
 }
+
+type Cat @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String
+}

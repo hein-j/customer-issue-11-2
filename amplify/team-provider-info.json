@@ -10,6 +10,11 @@
       "StackName": "amplify-customerissue122-staging-220859",
       "StackId": "arn:aws:cloudformation:eu-west-2:941076233521:stack/amplify-customerissue122-staging-220859/ec39ce80-728d-11ed-b14f-0ac25f545a86",
       "AmplifyAppId": "d1e04j72kpoo5g"
+    },
+    "categories": {
+      "api": {
+        "customerissue122": {}
+      }
     }
   }
 }
